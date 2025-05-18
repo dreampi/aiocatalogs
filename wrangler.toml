@@ -1,4 +1,4 @@
-name = "aiocatalogs"
+name = "aiocatalogs2"
 main = "./packages/platforms/cloudflare/index.ts"
 
 compatibility_date = "2024-09-23"
